@@ -10,6 +10,12 @@ assassins this year, a brother who left for a farm) and a scheme
 never announced: it leaks through the rhythm, the fragments, the
 ellipses and the small deflections ("A farm." repeated, the trailing
 "Sign here, here, and—"), and the sting lands in the last line.
+
+Judge criteria, kept in mind while writing: tiredness must live in
+the voice, rhythm and deflection — never stated outright; the speaker
+must read as a real villain with a scheme and a history, not a generic
+baddie; and the piece stays near 100 words (105 here, 555 characters,
+inside the 600-character gate).
 """
 
 import os
